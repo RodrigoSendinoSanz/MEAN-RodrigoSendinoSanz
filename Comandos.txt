@@ -1,0 +1,8 @@
+Comandos
+Abrir una terminar en cada carpeta importando toda la carpeta a visual studio o tu ide
+
+Servidor :  npm install -g nodemon          
+		npm run dev   //Puerto 4000
+
+
+Cliente :   ng serve --o   //Puerto 4200
